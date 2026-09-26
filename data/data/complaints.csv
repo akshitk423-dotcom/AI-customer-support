@@ -1,0 +1,11 @@
+id,complaint,category,urgency,department
+1,"My laptop has not arrived for 4 days",Delivery,High,Logistics
+2,"I received a damaged phone",Product,High,Support
+3,"I want to return my order",Refund,Medium,Returns
+4,"My payment failed twice",Payment,High,Finance
+5,"Where is my package?",Delivery,Medium,Logistics
+6,"The product color is different",Product,Low,Support
+7,"I was charged twice",Payment,High,Finance
+8,"Please cancel my order",Cancellation,Medium,Support
+9,"My order arrived late",Delivery,Medium,Logistics
+10,"The item I received is broken",Product,High,Support
